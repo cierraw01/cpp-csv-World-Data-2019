@@ -1,0 +1,258 @@
+, , , 
+, , , 
+, , , 
+, , , 
+"United Nations", , ", 
+"Population Division", , ", 
+"Department of Economic and Social Affairs", , ", 
+, , , 
+"World Population Prospects: The 2015 Revision", , ", 
+"File MORT/7-1: Life expectancy at birth (both sexes combined) by major area,  region and country, ,,,,,,,,,,,,,,,,,, 
+"Estimates,  1950 - 2015", ", 
+"POP/DB/WPP/Rev.2015/MORT/F07-1", , ", 
+"July 2015 - Copyright © 2015 by United Nations. All rights reserved", , ", 
+"Suggested citation: United Nations,  Department of Economic and Social Affairs, ,,,,,,,,,,,,,,,,,, 
+, , , 
+, , Life expectancy at birth for both sexes combined (years)", 
+"Index", "Variant", Major area, region, country or area *", "2000-2005"
+82, "Estimates", Japan", 81.83
+79, "Estimates", China, Hong Kong SAR", 81.31
+151, "Estimates", Iceland", 80.55
+178, "Estimates", Switzerland", 80.49
+226, "Estimates", Australia", 80.21
+163, "Estimates", Italy", 80.16
+156, "Estimates", Sweden", 80.08
+225, "Estimates", Australia/New Zealand", 80.00
+222, "Estimates", Canada", 79.68
+169, "Estimates", Spain", 79.64
+122, "Estimates", Israel", 79.60
+174, "Estimates", France", 79.43
+155, "Estimates", Norway", 79.22
+111, "Estimates", Singapore", 79.20
+162, "Estimates", Greece", 79.08
+227, "Estimates", New Zealand", 79.00
+192, "Estimates", Martinique", 78.94
+171, "Estimates", Western Europe", 78.90
+172, "Estimates", Austria", 78.80
+177, "Estimates", Netherlands", 78.68
+158, "Estimates", Southern Europe", 78.62
+175, "Estimates", Germany", 78.57
+164, "Estimates", Malta", 78.50
+157, "Estimates", United Kingdom", 78.35
+119, "Estimates", Cyprus", 78.34
+176, "Estimates", Luxembourg", 78.32
+150, "Estimates", Finland", 78.28
+147, "Estimates", Channel Islands", 78.27
+173, "Estimates", Belgium", 78.25
+80, "Estimates", China, Macao SAR", 78.14
+197, "Estimates", United States Virgin Islands", 78.12
+189, "Estimates", Guadeloupe", 77.89
+146, "Estimates", Northern Europe", 77.87
+211, "Estimates", Chile", 77.86
+200, "Estimates", Costa Rica", 77.81
+152, "Estimates", Ireland", 77.62
+221, "Estimates", NORTHERN AMERICA", 77.38
+84, "Estimates", Republic of Korea", 77.37
+166, "Estimates", Portugal", 77.32
+148, "Estimates", Denmark", 77.26
+185, "Estimates", Cuba", 77.16
+223, "Estimates", United States of America", 77.13
+85, "Estimates", Other non-specified areas", 76.91
+26, "Estimates", Réunion", 76.83
+193, "Estimates", Puerto Rico", 76.78
+168, "Estimates", Slovenia", 76.67
+24, "Estimates", Mayotte", 76.47
+127, "Estimates", Qatar", 76.43
+7, "Estimates", High-income countries", 76.15
+214, "Estimates", French Guiana", 76.09
+235, "Estimates", Guam", 75.92
+104, "Estimates", Brunei Darussalam", 75.73
+125, "Estimates", Lebanon", 75.64
+2, "Estimates", More developed regions", 75.55
+206, "Estimates", Panama", 75.54
+138, "Estimates", Czech Republic", 75.41
+219, "Estimates", Uruguay", 75.33
+159, "Estimates", Albania", 75.31
+224, "Estimates", OCEANIA", 75.14
+186, "Estimates", Curaçao", 75.00
+118, "Estimates", Bahrain", 74.96
+161, "Estimates", Croatia", 74.94
+204, "Estimates", Mexico", 74.89
+132, "Estimates", United Arab Emirates", 74.80
+160, "Estimates", Bosnia and Herzegovina", 74.79
+140, "Estimates", Poland", 74.53
+208, "Estimates", Argentina", 74.34
+181, "Estimates", Antigua and Barbuda", 74.06
+230, "Estimates", New Caledonia", 74.06
+77, "Estimates", Eastern Asia", 74.02
+182, "Estimates", Aruba", 73.97
+198, "Estimates", Central America", 73.88
+144, "Estimates", Slovakia", 73.83
+114, "Estimates", Viet Nam", 73.80
+170, "Estimates", TFYR Macedonia", 73.79
+184, "Estimates", Barbados", 73.76
+134, "Estimates", EUROPE", 73.75
+51, "Estimates", Tunisia", 73.71
+213, "Estimates", Ecuador", 73.62
+165, "Estimates", Montenegro", 73.39
+124, "Estimates", Kuwait", 73.28
+108, "Estimates", Malaysia", 73.25
+102, "Estimates", Sri Lanka", 73.24
+126, "Estimates", Oman", 73.23
+130, "Estimates", Syrian Arab Republic", 73.22
+183, "Estimates", Bahamas", 73.17
+239, "Estimates", French Polynesia", 73.17
+128, "Estimates", Saudi Arabia", 72.89
+78, "Estimates", China", 72.85
+220, "Estimates", Venezuela (Bolivarian Republic of)", 72.82
+191, "Estimates", Jamaica", 72.76
+116, "Estimates", Armenia", 72.68
+120, "Estimates", Georgia", 72.59
+139, "Estimates", Hungary", 72.59
+167, "Estimates", Serbia", 72.36
+123, "Estimates", Jordan", 72.17
+179, "Estimates", LATIN AMERICA AND THE CARIBBEAN", 72.15
+28, "Estimates", Seychelles", 72.11
+99, "Estimates", Maldives", 72.10
+23, "Estimates", Mauritius", 72.09
+194, "Estimates", Saint Lucia", 72.07
+137, "Estimates", Bulgaria", 72.06
+207, "Estimates", South America", 71.76
+212, "Estimates", Colombia", 71.67
+154, "Estimates", Lithuania", 71.63
+217, "Estimates", Peru", 71.60
+149, "Estimates", Estonia", 71.59
+238, "Estimates", Polynesia", 71.58
+142, "Estimates", Romania", 71.47
+131, "Estimates", Turkey", 71.37
+9, "Estimates", Upper-middle-income countries", 71.32
+112, "Estimates", Thailand", 71.22
+46, "Estimates", Algeria", 71.20
+241, "Estimates", Tonga", 71.16
+129, "Estimates", State of Palestine", 71.14
+98, "Estimates", Iran (Islamic Republic of)", 71.13
+210, "Estimates", Brazil", 71.10
+187, "Estimates", Dominican Republic", 71.09
+203, "Estimates", Honduras", 70.96
+205, "Estimates", Nicaragua", 70.91
+188, "Estimates", Grenada", 70.89
+234, "Estimates", Micronesia", 70.89
+115, "Estimates", Western Asia", 70.83
+48, "Estimates", Libya", 70.79
+216, "Estimates", Paraguay", 70.76
+62, "Estimates", Cabo Verde", 70.74
+153, "Estimates", Latvia", 70.74
+195, "Estimates", Saint Vincent and the Grenadines", 70.72
+240, "Estimates", Samoa", 70.10
+180, "Estimates", Caribbean", 69.96
+201, "Estimates", El Salvador", 69.57
+49, "Estimates", Morocco", 69.53
+202, "Estimates", Guatemala", 69.01
+47, "Estimates", Egypt", 69.00
+121, "Estimates", Iraq", 68.88
+196, "Estimates", Trinidad and Tobago", 68.68
+199, "Estimates", Belize", 68.52
+76, "Estimates", ASIA", 68.51
+233, "Estimates", Vanuatu", 68.36
+218, "Estimates", Suriname", 68.08
+81, "Estimates", Dem. People's Republic of Korea", 68.06
+103, "Estimates", South-Eastern Asia", 68.04
+229, "Estimates", Fiji", 68.00
+135, "Estimates", Eastern Europe", 67.90
+136, "Estimates", Belarus", 67.83
+117, "Estimates", Azerbaijan", 67.75
+141, "Estimates", Republic of Moldova", 67.62
+237, "Estimates", Micronesia (Fed. States of)", 67.58
+45, "Estimates", Northern Africa", 67.56
+145, "Estimates", Ukraine", 67.46
+92, "Estimates", Uzbekistan", 67.21
+5, "Estimates", Less developed regions, excluding least developed countries", 67.14
+1, "Estimates", WORLD", 67.05
+110, "Estimates", Philippines", 66.96
+95, "Estimates", Bangladesh", 66.72
+106, "Estimates", Indonesia", 66.69
+89, "Estimates", Kyrgyzstan", 66.60
+8, "Estimates", Middle-income countries", 66.44
+87, "Estimates", Central Asia", 65.39
+3, "Estimates", Less developed regions", 65.29
+215, "Estimates", Guyana", 65.28
+143, "Estimates", Russian Federation", 64.95
+88, "Estimates", Kazakhstan", 64.60
+236, "Estimates", Kiribati", 64.54
+90, "Estimates", Tajikistan", 64.44
+232, "Estimates", Solomon Islands", 64.35
+91, "Estimates", Turkmenistan", 64.22
+83, "Estimates", Mongolia", 64.08
+100, "Estimates", Nepal", 64.06
+86, "Estimates", South-Central Asia", 64.05
+93, "Estimates", Southern Asia", 64.01
+52, "Estimates", Western Sahara", 63.91
+44, "Estimates", Sao Tome and Principe", 63.79
+97, "Estimates", India", 63.57
+101, "Estimates", Pakistan", 63.35
+6, "Estimates", Less developed regions, excluding China", 63.20
+109, "Estimates", Myanmar", 62.94
+96, "Estimates", Bhutan", 62.88
+10, "Estimates", Lower-middle-income countries", 62.86
+209, "Estimates", Bolivia (Plurinational State of)", 62.11
+113, "Estimates", Timor-Leste", 61.48
+228, "Estimates", Melanesia", 61.36
+133, "Estimates", Yemen", 60.98
+105, "Estimates", Cambodia", 60.78
+107, "Estimates", Lao People's Democratic Republic", 60.34
+70, "Estimates", Mauritania", 60.28
+21, "Estimates", Madagascar", 60.03
+16, "Estimates", Comoros", 59.60
+231, "Estimates", Papua New Guinea", 59.60
+73, "Estimates", Senegal", 58.93
+43, "Estimates", Gabon", 58.89
+50, "Estimates", Sudan", 58.87
+190, "Estimates", Haiti", 58.34
+65, "Estimates", Ghana", 57.49
+18, "Estimates", Eritrea", 57.40
+17, "Estimates", Djibouti", 57.29
+64, "Estimates", Gambia", 56.79
+4, "Estimates", Least developed countries", 56.23
+60, "Estimates", Benin", 56.03
+94, "Estimates", Afghanistan", 55.98
+75, "Estimates", Togo", 53.89
+19, "Estimates", Ethiopia", 53.61
+56, "Estimates", Namibia", 53.41
+13, "Estimates", AFRICA", 53.28
+11, "Estimates", Low-income countries", 53.07
+32, "Estimates", United Republic of Tanzania", 52.79
+57, "Estimates", South Africa", 52.79
+42, "Estimates", Equatorial Guinea", 52.77
+71, "Estimates", Niger", 52.41
+68, "Estimates", Liberia", 52.39
+53, "Estimates", Southern Africa", 52.17
+15, "Estimates", Burundi", 51.97
+67, "Estimates", Guinea-Bissau", 51.86
+41, "Estimates", Democratic Republic of the Congo", 51.84
+61, "Estimates", Burkina Faso", 51.61
+37, "Estimates", Cameroon", 51.59
+29, "Estimates", Somalia", 51.53
+40, "Estimates", Congo", 51.36
+20, "Estimates", Kenya", 51.33
+66, "Estimates", Guinea", 51.31
+14, "Estimates", Eastern Africa", 51.20
+35, "Estimates", Middle Africa", 50.37
+69, "Estimates", Mali", 50.34
+12, "Estimates", Sub-Saharan Africa", 50.32
+30, "Estimates", South Sudan", 50.19
+27, "Estimates", Rwanda", 50.09
+25, "Estimates", Mozambique", 49.64
+59, "Estimates", Western Africa", 49.59
+31, "Estimates", Uganda", 49.15
+54, "Estimates", Botswana", 49.01
+39, "Estimates", Chad", 47.65
+72, "Estimates", Nigeria", 47.33
+36, "Estimates", Angola", 47.24
+63, "Estimates", Côte d'Ivoire", 46.68
+33, "Estimates", Zambia", 45.79
+58, "Estimates", Swaziland", 45.77
+22, "Estimates", Malawi", 45.24
+38, "Estimates", Central African Republic", 44.22
+55, "Estimates", Lesotho", 43.73
+74, "Estimates", Sierra Leone", 41.32
+34, "Estimates", Zimbabwe", 40.73
